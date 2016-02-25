@@ -10,12 +10,11 @@ body{
 
 .menu{
   height: 350px;
-  width:350px;
+  width:20%;
   border: dashed;
   padding-top:20px;
   float:left;
   margin-bottom:10px;
-  margin-right:350px;
   border-radius:5px;
   
 }
@@ -28,14 +27,15 @@ h3{
 li {
   font-weight:Bold;
   font-size:25px;
+  position:relative;
 }
 
 #picture{
   background-size:cover;
   background:url(http://www.mccormickandschmicks.com/Libraries/whatsinseason/seafood-restaurant-portland-or-jakes-famous-crawfish.sflb.ashx)no-repeat center center;
-  float:left;
+  float:right;
   height:250px;
-  width: 800px;
+  width: 79%;
 }
 
 hr {
